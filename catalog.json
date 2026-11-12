@@ -1,0 +1,33 @@
+{
+  "format": "cet6-drill-pack-catalog",
+  "version": 1,
+  "updatedAt": 1794470481188,
+  "packs": [
+    {
+      "packId": "example-reading",
+      "title": "示例包 · 阅读与答案（原创）",
+      "family": "OTHER",
+      "paperCount": 1,
+      "audioCount": 0,
+      "sizeBytes": 1757,
+      "durationMs": 0,
+      "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/example-reading.drillpack",
+      "sha256": "aad0c3df47040ef7cd0d9a950a5adf1c2e647fe779d3924d9f74825ef3040f51",
+      "availability": "AVAILABLE"
+    },
+    {
+      "packId": "other-2024-set1",
+      "title": "2024年示例场 第一套",
+      "family": "OTHER",
+      "year": 2024,
+      "volume": "第一套",
+      "paperCount": 1,
+      "audioCount": 1,
+      "sizeBytes": 47074,
+      "durationMs": 6000,
+      "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/other-2024-set1.drillpack",
+      "sha256": "c510b65b70592b0cc2c36fca988fff13a28866aade65f82f6a0d16b8bd90e311",
+      "availability": "AVAILABLE"
+    }
+  ]
+}
