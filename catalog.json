@@ -1,81 +1,81 @@
 {
   "format": "cet6-drill-pack-catalog",
   "version": 1,
-  "updatedAt": 1794476577790,
+  "updatedAt": 1794495858859,
   "packs": [
     {
       "packId": "cet6-2022-06-set1",
-      "title": "CET-6 2022年6月 第一套",
+      "title": "CET-6 2022年6月 第一套（原始资料无听力音频）",
       "family": "CET6",
       "year": 2022,
       "session": "06",
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 11488,
+      "sizeBytes": 9805,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2022-06-set1.drillpack",
-      "sha256": "550b06c2c63475eef5320374867638eabf5d73c1b695c845c1a00ad891be3bca",
+      "sha256": "ef389a5dc75a8e712cb442ade9488a8d70390215892815b1561518ac216048aa",
       "availability": "AVAILABLE"
     },
     {
       "packId": "cet6-2022-06-set2",
-      "title": "CET-6 2022年6月 第二套",
+      "title": "CET-6 2022年6月 第二套（原始资料无听力音频）",
       "family": "CET6",
       "year": 2022,
       "session": "06",
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 9673,
+      "sizeBytes": 9812,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2022-06-set2.drillpack",
-      "sha256": "dbf46d93ed25635e0240ad419005ecde6d3d35c1801e241791820d750dbb0a8a",
+      "sha256": "f6f2a3f0fd938fdad72835e5bcacf78294914cfa6a09032d7ca9c536479e2503",
       "availability": "AVAILABLE"
     },
     {
       "packId": "cet6-2022-12-set1",
-      "title": "CET-6 2022年12月 第一套",
+      "title": "CET-6 2022年12月 第一套（原始资料无听力音频）",
       "family": "CET6",
       "year": 2022,
       "session": "12",
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 11835,
+      "sizeBytes": 10008,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2022-12-set1.drillpack",
-      "sha256": "7e3b94b27c27f5ee80b216aebaa50e8dbcf567d859c6cb19350d225f446afe45",
+      "sha256": "f4d450d99b22b4baf79a293ad5c6b61488816bd1c6006aa8088b5a2ed537f8aa",
       "availability": "AVAILABLE"
     },
     {
       "packId": "cet6-2022-12-set2",
-      "title": "CET-6 2022年12月 第二套",
+      "title": "CET-6 2022年12月 第二套（原始资料无听力音频）",
       "family": "CET6",
       "year": 2022,
       "session": "12",
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 11849,
+      "sizeBytes": 10113,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2022-12-set2.drillpack",
-      "sha256": "81cc1f7d43e4f8e378979f53e23dc01d1a4f9fbbc5019f393638eade07afbc2c",
+      "sha256": "7583887b05911494eeeb2610d87e21c724299de5e6854c87b38d74fa2db8de33",
       "availability": "AVAILABLE"
     },
     {
       "packId": "cet6-2022-12-set3",
-      "title": "CET-6 2022年12月 第三套",
+      "title": "CET-6 2022年12月 第三套（原始资料无听力音频）",
       "family": "CET6",
       "year": 2022,
       "session": "12",
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 9888,
+      "sizeBytes": 10019,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2022-12-set3.drillpack",
-      "sha256": "dae8c9f3014844bf817113980437371e800604b9110424967a41f790a6acf4bd",
+      "sha256": "70e693d1f406baf3c1f9df71b2159de741785352c745556a1cc5c192e56a0b0e",
       "availability": "AVAILABLE"
     },
     {
@@ -87,10 +87,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7393495,
+      "sizeBytes": 7393542,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-03-set1.drillpack",
-      "sha256": "8ef3d59a90edcfdac06081c12c65719438d718e8ecae3dc574705f509da77a36",
+      "sha256": "2395678d5d5f0f1e955275ec0591e69334b270bd7fd7f7758ed5eb7a42634a39",
       "availability": "AVAILABLE"
     },
     {
@@ -102,10 +102,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9769230,
+      "sizeBytes": 9769278,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-06-set1.drillpack",
-      "sha256": "810aa168c64e342b65a5470d94b83a0b9cac5f4c6f741da181069cd6cf4b4826",
+      "sha256": "6384975a52bd758fadc8868fcfe6644580dd65e56f1a1b19ba6852fb047255a5",
       "availability": "AVAILABLE"
     },
     {
@@ -117,10 +117,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7716179,
+      "sizeBytes": 7716243,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-06-set2.drillpack",
-      "sha256": "d98e48552f5c86645505d41d6776ad4b788501be9619eb20f0b1bbe49aea9d51",
+      "sha256": "63cb0109ffa74b8842b31bbc53fc9bee3e04a561843e3bd7c894b49f8fe0e8fe",
       "availability": "AVAILABLE"
     },
     {
@@ -132,10 +132,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7713807,
+      "sizeBytes": 7716044,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-06-set3.drillpack",
-      "sha256": "b69ece6eb12ce7a3f812e53567a71e49eee90011dfa7a38b86b30c195c3f55bd",
+      "sha256": "8977b2d7cb2776826fdc04ac90ff4d186bf9abb629290cc164bc0079000ba43c",
       "availability": "AVAILABLE"
     },
     {
@@ -147,10 +147,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9240021,
+      "sizeBytes": 9240108,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-12-set1.drillpack",
-      "sha256": "6fcb93c1903ae36dbefbe6c08c3332b5271a0354b946e5d4c0aecf0bca5d4aa7",
+      "sha256": "1a4332a79a82bdf5c6ab2572f5f29695cb3bd4de1e5fe1811d7b1b1980e23231",
       "availability": "AVAILABLE"
     },
     {
@@ -162,10 +162,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7904599,
+      "sizeBytes": 7904689,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-12-set2.drillpack",
-      "sha256": "c99ca7a5582b8552dd22c8cc2e69d69bd0db3422803b2bc581d2dae562b3e4a6",
+      "sha256": "3f292809aa11bced8f4538137aae6eb69c98b119a9a94e7b412bf08177468052",
       "availability": "AVAILABLE"
     },
     {
@@ -177,10 +177,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7901833,
+      "sizeBytes": 7904116,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2023-12-set3.drillpack",
-      "sha256": "278e9fba96fcc036cb22d746d04905aca9ab73291c1ea939f4807aa03c6d8073",
+      "sha256": "ffbe88f5bee1fba04b852424c4dc5ccd59ba8212df9d7f62deb7984527dba9f8",
       "availability": "AVAILABLE"
     },
     {
@@ -192,10 +192,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9340357,
+      "sizeBytes": 9340428,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-06-set1.drillpack",
-      "sha256": "e70d317adf9ee8dba3bded0e2e4b663a76396e59ae6db79bd0a665ac10dc393c",
+      "sha256": "1c6fa89dff29e7deabad96bf9fa88be198eeee13614dabcbe49d049d0fb5499c",
       "availability": "AVAILABLE"
     },
     {
@@ -207,10 +207,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7345467,
+      "sizeBytes": 7345547,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-06-set2.drillpack",
-      "sha256": "77131e4a2e7d0e32a082cb16ced49762a171fa623958003a974b630fd978ce9f",
+      "sha256": "0c9dbcd1fae3a7714d490efdae03f82b643f30fe962baa9e39380cbeca0fdad2",
       "availability": "AVAILABLE"
     },
     {
@@ -222,10 +222,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7343152,
+      "sizeBytes": 7345831,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-06-set3.drillpack",
-      "sha256": "7e12f360f2c8564d88c965543b21004492238e500c599ad9256dfc8d3f88b7eb",
+      "sha256": "3bebacdb057535e2fb12fa010e2e17488797285f2c4243d3eb7aa0462970e31c",
       "availability": "AVAILABLE"
     },
     {
@@ -237,10 +237,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 10473365,
+      "sizeBytes": 10473453,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-12-set1.drillpack",
-      "sha256": "57a7b16ac4d536a49b5e3b0ac93e5aab318acc64815ec81ddb00c3c720819d38",
+      "sha256": "f6e4718e08380b402a09828460af61624603edd796f504155a1f639bbdff0733",
       "availability": "AVAILABLE"
     },
     {
@@ -252,10 +252,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9458188,
+      "sizeBytes": 9458260,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-12-set2.drillpack",
-      "sha256": "015ba7b1ecd289d5c78b187acf7a86bbb124900ea8577aa1a12e7ab764a21f64",
+      "sha256": "8e789fd742026dc707c35cd6fd1f9f78565cbf3b2b00434c35a838069b05b4dc",
       "availability": "AVAILABLE"
     },
     {
@@ -267,10 +267,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9456224,
+      "sizeBytes": 9458390,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2024-12-set3.drillpack",
-      "sha256": "9b2db9c710fd69b4fa09d4e081b658770a9298e53ffea88cbde1cf536e38ea4e",
+      "sha256": "88ddd358d41e75f42e1dbf234ff3f2cb111941913931734e4d03d6fcb4c0d72a",
       "availability": "AVAILABLE"
     },
     {
@@ -282,10 +282,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9324172,
+      "sizeBytes": 9324264,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-06-set1.drillpack",
-      "sha256": "1f312ea18c2757f9aff06c51bd1e40f9026e8f62f260ec3fe8c70deceb4a0078",
+      "sha256": "86068d72830d461daf2dbf96f442bd21345bb784946a00ef981d2570f4f219f9",
       "availability": "AVAILABLE"
     },
     {
@@ -297,10 +297,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7424591,
+      "sizeBytes": 7424656,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-06-set2.drillpack",
-      "sha256": "8c3584865bcd516725465bc5afe9a00b3ace04d895c8adcd5dc770d70e930aac",
+      "sha256": "f269a68ab6e7cec7cfd24943ae7c6a5faf9ffca3d4c2079ad9089d7fc0ee2a62",
       "availability": "AVAILABLE"
     },
     {
@@ -312,10 +312,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7422681,
+      "sizeBytes": 7424755,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-06-set3.drillpack",
-      "sha256": "3173360355d2dd3808469282e65162b5e55578b9d2e67ad9067c2375c37047cc",
+      "sha256": "dc0c3139b1fa6ecee31875e3e12a219f59b5c2a889c390aec5ffe043981e1f48",
       "availability": "AVAILABLE"
     },
     {
@@ -327,10 +327,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9152532,
+      "sizeBytes": 9152641,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-12-set1.drillpack",
-      "sha256": "ce927913161c4b8a0895b08e130dfbd2dcde25647332e9939328c3d4343e5e69",
+      "sha256": "d9ebb7ed8e13080c49e122c0eaabc96a9736a4acf75268c6d090e4c9413a59e3",
       "availability": "AVAILABLE"
     },
     {
@@ -342,10 +342,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7238002,
+      "sizeBytes": 7238103,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-12-set2.drillpack",
-      "sha256": "ae5f45f8f74a3b0d00ab73124bac49968e3a227ed25b0c48374ff89c53a46ebb",
+      "sha256": "568d7d9943162a0e60065ff67b766a0805e1110aa49d2e83b5c1306f81722d24",
       "availability": "AVAILABLE"
     },
     {
@@ -357,10 +357,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7236161,
+      "sizeBytes": 7238346,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2025-12-set3.drillpack",
-      "sha256": "680e52160a4b9e54c9e678774bd20e401f5bef082af335cece477b498ec23da6",
+      "sha256": "5ec5c371e3476b026ec5438e806888b8d3a40d05581c68d28ecda23aed9f23d1",
       "availability": "AVAILABLE"
     },
     {
@@ -372,10 +372,10 @@
       "volume": "第一套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 7472301,
+      "sizeBytes": 7472421,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2026-06-set1.drillpack",
-      "sha256": "b5107aaa6112b2aebfe4e20ee3d4d26c3904bc0c2fea99258d2f619c12c8527a",
+      "sha256": "738db1dd885b4d20e60547726b4b68cfd0a2990e28ef0bdb3ff4a43ad8a25930",
       "availability": "AVAILABLE"
     },
     {
@@ -387,10 +387,10 @@
       "volume": "第二套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9338595,
+      "sizeBytes": 9338682,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2026-06-set2.drillpack",
-      "sha256": "b45948aaf28cfde2d4d3334ef2e3b6a345369b5a2ee695e9432307ca92825dc0",
+      "sha256": "4ef11096cee68038da07480b9dbad3d99aab72c99d633a149ee68f1bd4b31f5f",
       "availability": "AVAILABLE"
     },
     {
@@ -402,10 +402,10 @@
       "volume": "第三套",
       "paperCount": 1,
       "audioCount": 1,
-      "sizeBytes": 9336248,
+      "sizeBytes": 9338572,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/cet6-2026-06-set3.drillpack",
-      "sha256": "3b8c3a5b76eba7c8f69ae5b25f4ae6a0e6cd96e18afe676356c104ea537aaae4",
+      "sha256": "8d3772eb28f07a38a969b913fb708d0e1aae72f32bf9c7c8a6cbe89f90ab6431",
       "availability": "AVAILABLE"
     },
     {
@@ -415,10 +415,10 @@
       "year": 2010,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 12350,
+      "sizeBytes": 12550,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2010.drillpack",
-      "sha256": "3a731bf95e9d426d58516f54af40c9a69bd72e227c43dfac9d0731330564d959",
+      "sha256": "ae3c9cc2dd26ea59b420ce890b16238d98fa9f84a829ef437d457ffd9d9e6849",
       "availability": "AVAILABLE"
     },
     {
@@ -428,10 +428,10 @@
       "year": 2011,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 12533,
+      "sizeBytes": 12673,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2011.drillpack",
-      "sha256": "0435cea8ab0bae630788b0937c8a8152fbeded60fdd63982735549951f22b662",
+      "sha256": "1dd76516936f60a4510e6e6e47eae67c1946117d53b49c819ac377e4fe320280",
       "availability": "AVAILABLE"
     },
     {
@@ -441,10 +441,10 @@
       "year": 2012,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 13819,
+      "sizeBytes": 13863,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2012.drillpack",
-      "sha256": "978aca000317ed096a79bc56962c14126be191dd73143fb115bb008c6fcf6728",
+      "sha256": "cae901499e57d07cb783e5d2c2228ae23900507248e52fc0fe4b7c331c9d6592",
       "availability": "AVAILABLE"
     },
     {
@@ -454,10 +454,10 @@
       "year": 2013,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 48203,
+      "sizeBytes": 38288,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2013.drillpack",
-      "sha256": "a793ac25f994dd668a0df82337a2783bbb9f3a8923be7194f6e126a9a957c776",
+      "sha256": "5ff914489e0db2ca127e688eeb02c28773cb3313aa5ca1ce446d8e2ed66785dc",
       "availability": "AVAILABLE"
     },
     {
@@ -467,10 +467,10 @@
       "year": 2014,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 19774,
+      "sizeBytes": 20048,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2014.drillpack",
-      "sha256": "d66ee54176701ec8465a860dc108aec392863de1b1b2d231fcf7bbed896d9648",
+      "sha256": "b100fce7ea08fe1a7d623757ddaa9fc41ce13c8cb90ba2a96f720cd17575da71",
       "availability": "AVAILABLE"
     },
     {
@@ -480,10 +480,10 @@
       "year": 2015,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 24733,
+      "sizeBytes": 24851,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2015.drillpack",
-      "sha256": "ab8ad2997d409c3f89333071dbd991bea22ebc1c49daca32e7a8a622456c3050",
+      "sha256": "b1b9aac6c579553fba3155d6f7b756248ba97a738e6fc471708c314bc32cee53",
       "availability": "AVAILABLE"
     },
     {
@@ -493,10 +493,10 @@
       "year": 2016,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 19516,
+      "sizeBytes": 20692,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2016.drillpack",
-      "sha256": "4432d85e07134884db3da7aa8158dbb1da680a6d9b726716396519aa3d352a9c",
+      "sha256": "d87cc083a19b059797eda8f216469ccf3f9b62c0b0020d15656a892ecbcac2bc",
       "availability": "AVAILABLE"
     },
     {
@@ -506,10 +506,10 @@
       "year": 2017,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 18516,
+      "sizeBytes": 18676,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2017.drillpack",
-      "sha256": "1056b77ff8b04d4f6f670a0e0d8ffb4efb1b5007d06c492fcb2548adfea17452",
+      "sha256": "611121f12b40979f1c825eaaae4dc223f2666886ca2de436199c70391a137581",
       "availability": "AVAILABLE"
     },
     {
@@ -519,10 +519,10 @@
       "year": 2018,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 10095,
+      "sizeBytes": 10290,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2018.drillpack",
-      "sha256": "7f56e6cd4d26cf807ac7ff4e387aca3f3afa2a5b315207b25ac673fcf26a1dfe",
+      "sha256": "4fb8461bbe787854afdd37e502ba43d24ca92373cf31834cae99ee3ec227a338",
       "availability": "AVAILABLE"
     },
     {
@@ -532,10 +532,10 @@
       "year": 2019,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 125337,
+      "sizeBytes": 125496,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2019.drillpack",
-      "sha256": "1c4a2242c3b4e330a330bdf19d5000b008bdfe5c8e4fdf44ff07859f0f60aed4",
+      "sha256": "b1edcb6942013330f0333501e50ea487241b58d0c2bf93fa10dcfaeec3bec75f",
       "availability": "AVAILABLE"
     },
     {
@@ -545,10 +545,10 @@
       "year": 2020,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 11237,
+      "sizeBytes": 11368,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2020.drillpack",
-      "sha256": "37c09284ce71c1d185c212cd91540c640a7e30ec74791ff52141282c13c8145f",
+      "sha256": "91c5dde223d15991b05a56c62b5d796353eb8f487b7784829861e4b85514c90d",
       "availability": "AVAILABLE"
     },
     {
@@ -558,10 +558,10 @@
       "year": 2021,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 12610,
+      "sizeBytes": 12644,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2021.drillpack",
-      "sha256": "44609e4e7a3ab4704a99a7c383e2f16c6b6bae75e6f5951302a08f2e33ef0247",
+      "sha256": "f350c93d9821bcdcb73828cb91d7f166cff57b36469d8be629fe8c709cd32836",
       "availability": "AVAILABLE"
     },
     {
@@ -571,10 +571,10 @@
       "year": 2022,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 12104,
+      "sizeBytes": 12238,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2022.drillpack",
-      "sha256": "628354b6f1e7ee0b79d75314afab487c42c121790d7711a11495ae63571265bd",
+      "sha256": "ddfe0fdfa71e6a8d1a0d89d5aaaba356b53994a4f083f936650f24c2b10f49e1",
       "availability": "AVAILABLE"
     },
     {
@@ -584,10 +584,10 @@
       "year": 2023,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 24037,
+      "sizeBytes": 25036,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2023.drillpack",
-      "sha256": "8cbfb8a9f6e22388beef81d8b3d4b6c85c327183393e5d67677a01817eb94e76",
+      "sha256": "c909f4520ec3f5b9c79bde65f54e2c25774dc9d41b1b0ba81a779a2bc3d6a466",
       "availability": "AVAILABLE"
     },
     {
@@ -597,10 +597,10 @@
       "year": 2024,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 13060,
+      "sizeBytes": 13090,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2024.drillpack",
-      "sha256": "9859103b24a7bfe17fa2d5aab2f49333a2d927a4d19b0dcbd507619fcf973425",
+      "sha256": "cd0491d7138b2c7ebac079c57cf6bf87c02486bb159c5afc0b2d5f095e1a8703",
       "availability": "AVAILABLE"
     },
     {
@@ -610,10 +610,10 @@
       "year": 2025,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 15871,
+      "sizeBytes": 15879,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky1-2025.drillpack",
-      "sha256": "4388e2edd7beece7efb798ae68f50873710262638396ef963021dcaed2298bce",
+      "sha256": "b14ebe6aaf808a064e23213b6fa83ea1e1afcdce4eca54e7cf8c22ff72c26207",
       "availability": "AVAILABLE"
     },
     {
@@ -623,10 +623,10 @@
       "year": 2010,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 10972,
+      "sizeBytes": 11167,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2010.drillpack",
-      "sha256": "600129a9ffa604915d95d07b2e617a443ffce98e408a0138bf7b524f395d7d22",
+      "sha256": "ec64988a7107106a44c843ded0fa52f34708ee7f390d70a9ddd94b33e35c91a1",
       "availability": "AVAILABLE"
     },
     {
@@ -636,10 +636,10 @@
       "year": 2011,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 11010,
+      "sizeBytes": 11050,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2011.drillpack",
-      "sha256": "6adaa58b930a585f6f2763dddbea3379229078c569e803d0cf3719feb5f7db8f",
+      "sha256": "d9f729ba2ac8ed5fbc1662a4fef3fd2d8e4f08bdf3ddfedbeb6175557efe9a18",
       "availability": "AVAILABLE"
     },
     {
@@ -649,10 +649,10 @@
       "year": 2012,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 17068,
+      "sizeBytes": 17097,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2012.drillpack",
-      "sha256": "8f3c1555f455e7d40eb2a7401d6a8d07894ebe231caec94ab4c2aec7f469c5b3",
+      "sha256": "afb02339f8603ae69bb761b75376093bbfd046abb7f9d42a15dc9b70c7dc3722",
       "availability": "AVAILABLE"
     },
     {
@@ -662,10 +662,10 @@
       "year": 2013,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 22897,
+      "sizeBytes": 22914,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2013.drillpack",
-      "sha256": "004ff8b685550d816b69786234c99f5416078709581b1e0954979dd3b0bcbd76",
+      "sha256": "86af0818227a2e5b13a937a5d8d97ca16833f6c00b5747838f9569a24a981dd0",
       "availability": "AVAILABLE"
     },
     {
@@ -675,10 +675,10 @@
       "year": 2014,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 17506,
+      "sizeBytes": 18404,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2014.drillpack",
-      "sha256": "ce530d66281288f14c009c5f53b882e2d50d046a01f48b051bb1f68aaae02988",
+      "sha256": "14ca56830558b75854f1d8efac2daa77559305e64c3cc916a1c2fff4d7a2cc42",
       "availability": "AVAILABLE"
     },
     {
@@ -688,10 +688,10 @@
       "year": 2015,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 18504,
+      "sizeBytes": 19661,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2015.drillpack",
-      "sha256": "0429d096243e47d039b768a80c5bf73d784c03e9e1b0bcbc4b8ec40737c473bb",
+      "sha256": "0d04e040ffc39e5ba23288f8d0e754499773039601bf7d917c791a90273c9040",
       "availability": "AVAILABLE"
     },
     {
@@ -701,10 +701,10 @@
       "year": 2016,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 19369,
+      "sizeBytes": 18444,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2016.drillpack",
-      "sha256": "bf0d6ef44cbc996aad576685ff6098dfe8e5da5621e1bab7645da5287a94ae40",
+      "sha256": "f42527abc116831febfabe2f7528b4805cc88f48f1f3c990f7c71a8536ac99a2",
       "availability": "AVAILABLE"
     },
     {
@@ -714,10 +714,10 @@
       "year": 2017,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 21282,
+      "sizeBytes": 21321,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2017.drillpack",
-      "sha256": "a8f4664b0822aa489bb47fcb300025d9b258fa8c24556d745a5d02c5381f2bb3",
+      "sha256": "d5ef71b8dfa3b68c7f3d79f9e8d5cda0129b69016c5361bf31e6cbb25f0fe6be",
       "availability": "AVAILABLE"
     },
     {
@@ -727,10 +727,10 @@
       "year": 2018,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 24758,
+      "sizeBytes": 20812,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2018.drillpack",
-      "sha256": "34dea217770d4e0f23e69f87266e9f7fac6cd1600e3e48f628fbc96a8452213a",
+      "sha256": "17942be1fe787a9be87db229c3ba84a37e343691366c99f048bfe35f70dc97ad",
       "availability": "AVAILABLE"
     },
     {
@@ -740,10 +740,10 @@
       "year": 2019,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 15399,
+      "sizeBytes": 16806,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2019.drillpack",
-      "sha256": "226a896999f70e8458866434552e6e5b320ef9201e5d72cad902c48d109ffa16",
+      "sha256": "24e49d04a85438d4e6a9b3f3ffbff48dc8cc8b7b17a30fd11cab48a56639dc80",
       "availability": "AVAILABLE"
     },
     {
@@ -753,10 +753,10 @@
       "year": 2020,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 10719,
+      "sizeBytes": 10960,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2020.drillpack",
-      "sha256": "727bbe2509e0a2aa7515e177e59f7dce49551b4f47a309f91cd8586041e2b3ae",
+      "sha256": "55c1f095d4cbdbb2b203f1600f73a00f6a12232dc168ab367f49555ea2ddd443",
       "availability": "AVAILABLE"
     },
     {
@@ -766,10 +766,10 @@
       "year": 2021,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 10876,
+      "sizeBytes": 10912,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2021.drillpack",
-      "sha256": "69f3325339630b683bf864a64fdc8da7aff3be7b0ce7b40ce0c9c02ffaf38bde",
+      "sha256": "89e5aa8a10df1c804d467cefea1bcf246300cc612810c891773c8709ec44a3fd",
       "availability": "AVAILABLE"
     },
     {
@@ -779,10 +779,10 @@
       "year": 2022,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 9473,
+      "sizeBytes": 9507,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2022.drillpack",
-      "sha256": "73cc1e45f000817947253e05e3d207a48387b00e172509f32e4bf62fd3f354e8",
+      "sha256": "def14ba4ca9b49b8fd27794e6bb73994eecbfd76612aa25193192783854e221a",
       "availability": "AVAILABLE"
     },
     {
@@ -792,10 +792,10 @@
       "year": 2023,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 27007,
+      "sizeBytes": 27150,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2023.drillpack",
-      "sha256": "23a7fa58294d2ac5d002996d511e87e90e43c9ad3d39f19fb5182a4d5a5e67f9",
+      "sha256": "c65b046b153c0710a5b2e5555aa1b7cd797c554b5cd021a27b49f8e62af1c32b",
       "availability": "AVAILABLE"
     },
     {
@@ -805,10 +805,10 @@
       "year": 2024,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 10715,
+      "sizeBytes": 10756,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2024.drillpack",
-      "sha256": "ae57b5822267f60af3cb5570eaf729fb7c61bfa1fbd0be4679c99cf82d2e8bf3",
+      "sha256": "cd85d0a269f0366c9c4d32152e4f5d414a1cef00d70b137a55bf38f163597f55",
       "availability": "AVAILABLE"
     },
     {
@@ -818,10 +818,10 @@
       "year": 2025,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 9028,
+      "sizeBytes": 9079,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2025.drillpack",
-      "sha256": "68fb63e0c3b98d8a4f56cdd0605a39ea36df1dbe5464c90c047e5b514909c209",
+      "sha256": "b94ccba3d688339989358ba20fed1d3fb0d84c8e57ff57f6352009e21e787409",
       "availability": "AVAILABLE"
     },
     {
@@ -831,10 +831,10 @@
       "year": 2026,
       "paperCount": 1,
       "audioCount": 0,
-      "sizeBytes": 12606,
+      "sizeBytes": 12528,
       "durationMs": 0,
       "url": "https://github.com/woshinifather856-hue/english-drill-packs/releases/download/v1/ky2-2026.drillpack",
-      "sha256": "895e972cb221a7d5e8cfdd4da069ee8de4a84f7894dcc0a962a0c972651de9f9",
+      "sha256": "522308dcb0942740d661d2b160ac95afa1c8111ac15da4adac19e5d96efda5a7",
       "availability": "AVAILABLE"
     }
   ]
