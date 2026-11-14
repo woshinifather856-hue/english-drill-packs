@@ -1,0 +1,695 @@
+[
+  {
+    "packId": "cet6-2022-06-set1",
+    "title": "CET-6 2022年6月 第一套（原始资料无听力音频）",
+    "objectiveQuestionsPresent": 30,
+    "objectiveWithAnswer": 30,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2022-06-set2",
+    "title": "CET-6 2022年6月 第二套（原始资料无听力音频）",
+    "objectiveQuestionsPresent": 30,
+    "objectiveWithAnswer": 30,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2022-12-set1",
+    "title": "CET-6 2022年12月 第一套（原始资料无听力音频）",
+    "objectiveQuestionsPresent": 30,
+    "objectiveWithAnswer": 30,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2022-12-set2",
+    "title": "CET-6 2022年12月 第二套（原始资料无听力音频）",
+    "objectiveQuestionsPresent": 30,
+    "objectiveWithAnswer": 30,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2022-12-set3",
+    "title": "CET-6 2022年12月 第三套（原始资料无听力音频）",
+    "objectiveQuestionsPresent": 30,
+    "objectiveWithAnswer": 30,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-03-set1",
+    "title": "CET-6 2023年3月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-06-set1",
+    "title": "CET-6 2023年6月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-06-set2",
+    "title": "CET-6 2023年6月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-06-set3",
+    "title": "CET-6 2023年6月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-12-set1",
+    "title": "CET-6 2023年12月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-12-set2",
+    "title": "CET-6 2023年12月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2023-12-set3",
+    "title": "CET-6 2023年12月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-06-set1",
+    "title": "CET-6 2024年6月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-06-set2",
+    "title": "CET-6 2024年6月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-06-set3",
+    "title": "CET-6 2024年6月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-12-set1",
+    "title": "CET-6 2024年12月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-12-set2",
+    "title": "CET-6 2024年12月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2024-12-set3",
+    "title": "CET-6 2024年12月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-06-set1",
+    "title": "CET-6 2025年6月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-06-set2",
+    "title": "CET-6 2025年6月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-06-set3",
+    "title": "CET-6 2025年6月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-12-set1",
+    "title": "CET-6 2025年12月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-12-set2",
+    "title": "CET-6 2025年12月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2025-12-set3",
+    "title": "CET-6 2025年12月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2026-06-set1",
+    "title": "CET-6 2026年6月 第一套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2026-06-set2",
+    "title": "CET-6 2026年6月 第二套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "cet6-2026-06-set3",
+    "title": "CET-6 2026年6月 第三套",
+    "objectiveQuestionsPresent": 55,
+    "objectiveWithAnswer": 55,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2010",
+    "title": "考研英语一 2010年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 44,
+    "missingAnswers": [
+      43
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2011",
+    "title": "考研英语一 2011年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2012",
+    "title": "考研英语一 2012年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2013",
+    "title": "考研英语一 2013年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2014",
+    "title": "考研英语一 2014年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2015",
+    "title": "考研英语一 2015年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2016",
+    "title": "考研英语一 2016年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2017",
+    "title": "考研英语一 2017年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2018",
+    "title": "考研英语一 2018年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2019",
+    "title": "考研英语一 2019年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2020",
+    "title": "考研英语一 2020年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2021",
+    "title": "考研英语一 2021年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2022",
+    "title": "考研英语一 2022年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 31,
+    "missingAnswers": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      32,
+      34,
+      35,
+      38
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2023",
+    "title": "考研英语一 2023年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 40,
+    "missingAnswers": [
+      23,
+      24,
+      25,
+      27,
+      30
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2024",
+    "title": "考研英语一 2024年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky1-2025",
+    "title": "考研英语一 2025年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 7,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2010",
+    "title": "考研英语二 2010年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 43,
+    "missingAnswers": [
+      42,
+      44
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2011",
+    "title": "考研英语二 2011年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2012",
+    "title": "考研英语二 2012年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 44,
+    "missingAnswers": [
+      22
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2013",
+    "title": "考研英语二 2013年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2014",
+    "title": "考研英语二 2014年真题",
+    "objectiveQuestionsPresent": 35,
+    "objectiveWithAnswer": 35,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2015",
+    "title": "考研英语二 2015年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2016",
+    "title": "考研英语二 2016年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2017",
+    "title": "考研英语二 2017年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2018",
+    "title": "考研英语二 2018年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2019",
+    "title": "考研英语二 2019年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2020",
+    "title": "考研英语二 2020年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2021",
+    "title": "考研英语二 2021年真题",
+    "objectiveQuestionsPresent": 40,
+    "objectiveWithAnswer": 40,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "subjectiveQuestions": 2,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2022",
+    "title": "考研英语二 2022年真题",
+    "objectiveQuestionsPresent": 25,
+    "objectiveWithAnswer": 25,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2023",
+    "title": "考研英语二 2023年真题",
+    "objectiveQuestionsPresent": 25,
+    "objectiveWithAnswer": 25,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2024",
+    "title": "考研英语二 2024年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2025",
+    "title": "考研英语二 2025年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 40,
+    "missingAnswers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  },
+  {
+    "packId": "ky2-2026",
+    "title": "考研英语二 2026年真题",
+    "objectiveQuestionsPresent": 45,
+    "objectiveWithAnswer": 45,
+    "missingAnswers": [],
+    "missingObjectiveQuestions": [],
+    "subjectiveQuestions": 3,
+    "note": "Original question and answer bytes retained; structural coverage is not manual correctness verification."
+  }
+]
