@@ -1,0 +1,616 @@
+{
+  "papers": 60,
+  "enrichedPackages": 22,
+  "uniqueAudio": 15,
+  "durationMs": 23912889,
+  "words": 45965,
+  "cues": 3596,
+  "recordings": [
+    {
+      "sha256": "55575cd93a5ca0b947bf8f754b34178d50e952283c85d0147b1fb2e0e01663ed",
+      "cues": 236,
+      "words": 2959,
+      "lowConfidenceWords": 14,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1575079,
+      "packs": [
+        "cet6-2023-03-set1"
+      ]
+    },
+    {
+      "sha256": "4e41e017471441eb140c6f6d833af80bd43201b428e7cf5683e2a3aec8b2ef68",
+      "cues": 234,
+      "words": 3022,
+      "lowConfidenceWords": 13,
+      "invalidWordTimings": [],
+      "realignmentWindows": 1,
+      "durationMs": 1652715,
+      "packs": [
+        "cet6-2023-06-set1"
+      ]
+    },
+    {
+      "sha256": "430d13cf0d65a3e49a670b982143958a5562c87859376c7ac7472857c90ee636",
+      "cues": 233,
+      "words": 2985,
+      "lowConfidenceWords": 10,
+      "invalidWordTimings": [],
+      "durationMs": 1652767,
+      "packs": [
+        "cet6-2023-06-set2",
+        "cet6-2023-06-set3"
+      ]
+    },
+    {
+      "sha256": "b271dcc780d7c1e893f6721fad9717e3574120298de1f200c7a5f7fb71c380bb",
+      "cues": 246,
+      "words": 3024,
+      "lowConfidenceWords": 9,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1564813,
+      "packs": [
+        "cet6-2023-12-set1"
+      ]
+    },
+    {
+      "sha256": "cd5b3d358418f26fa8d87f17ea67c044b21dcf5bfad5ecc06abb88ebc6b173a8",
+      "cues": 268,
+      "words": 3324,
+      "lowConfidenceWords": 15,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 5,
+      "durationMs": 1677479,
+      "packs": [
+        "cet6-2023-12-set2",
+        "cet6-2023-12-set3"
+      ]
+    },
+    {
+      "sha256": "b80d4d1f48e4f0360a60ff93fbc38449dd0428e57569c0e6591c8b4656cb989c",
+      "cues": 229,
+      "words": 3006,
+      "lowConfidenceWords": 18,
+      "invalidWordTimings": [],
+      "durationMs": 1627664,
+      "packs": [
+        "cet6-2024-06-set1"
+      ]
+    },
+    {
+      "sha256": "49cbdb02eeec97bfe18630557c30352e70436c814458ed39ea07ec8367b1e818",
+      "cues": 232,
+      "words": 3086,
+      "lowConfidenceWords": 9,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1565727,
+      "packs": [
+        "cet6-2024-06-set2",
+        "cet6-2024-06-set3"
+      ]
+    },
+    {
+      "sha256": "4339fa634d60f83b580c7560db3019be70ee3810952268ce78c22f3b01ca2c41",
+      "cues": 252,
+      "words": 3309,
+      "lowConfidenceWords": 20,
+      "invalidWordTimings": [],
+      "realignmentWindows": 2,
+      "coverageRepairWindows": 2,
+      "durationMs": 1772279,
+      "packs": [
+        "cet6-2024-12-set1"
+      ]
+    },
+    {
+      "sha256": "ef9d7cf018e7a801cf33cc89d13b2ac758f7027018dd8debd36008d7560c9f47",
+      "cues": 232,
+      "words": 2884,
+      "lowConfidenceWords": 20,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1604076,
+      "packs": [
+        "cet6-2024-12-set2",
+        "cet6-2024-12-set3"
+      ]
+    },
+    {
+      "sha256": "894a01af68b760a8cbeb7a6122d337c69ca92f74e30f59485291d56fd61a2cb3",
+      "cues": 255,
+      "words": 2984,
+      "lowConfidenceWords": 10,
+      "invalidWordTimings": [],
+      "durationMs": 1570969,
+      "packs": [
+        "cet6-2025-06-set1"
+      ]
+    },
+    {
+      "sha256": "100ff216a05803b34f91ed3ff4ec820593349a2041858c3ea85869df7dfb2169",
+      "cues": 244,
+      "words": 3035,
+      "lowConfidenceWords": 18,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 3,
+      "durationMs": 1580629,
+      "packs": [
+        "cet6-2025-06-set2",
+        "cet6-2025-06-set3"
+      ]
+    },
+    {
+      "sha256": "1610a8799112b76bb3b87904fa011c764427ab28f665dce61194a58d4f13906b",
+      "cues": 233,
+      "words": 3087,
+      "lowConfidenceWords": 11,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1546240,
+      "packs": [
+        "cet6-2025-12-set1"
+      ]
+    },
+    {
+      "sha256": "86618aa9a991b6af8211be4a6984aee36328ba4fddab0e5aaf2aa35c5139c25f",
+      "cues": 245,
+      "words": 3033,
+      "lowConfidenceWords": 8,
+      "invalidWordTimings": [],
+      "realignmentWindows": 1,
+      "durationMs": 1572408,
+      "packs": [
+        "cet6-2025-12-set2",
+        "cet6-2025-12-set3"
+      ]
+    },
+    {
+      "sha256": "ec059a8db2bca5b3551d74490a32e475fbb78525c22d30d38965ff1d3bf95470",
+      "cues": 216,
+      "words": 2996,
+      "lowConfidenceWords": 8,
+      "invalidWordTimings": [],
+      "durationMs": 1264091,
+      "packs": [
+        "cet6-2026-06-set1"
+      ]
+    },
+    {
+      "sha256": "23ba8b66c93045635bcbe070171549d84e902ec84b6bca7d5ff28f4f526e576f",
+      "cues": 241,
+      "words": 3231,
+      "lowConfidenceWords": 13,
+      "invalidWordTimings": [],
+      "coverageRepairWindows": 1,
+      "durationMs": 1685953,
+      "packs": [
+        "cet6-2026-06-set2",
+        "cet6-2026-06-set3"
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "packId": "cet6-2022-06-set1",
+      "title": "CET-6 2022年6月 第一套（原始资料无听力音频）",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "ef389a5dc75a8e712cb442ade9488a8d70390215892815b1561518ac216048aa"
+    },
+    {
+      "packId": "cet6-2022-06-set2",
+      "title": "CET-6 2022年6月 第二套（原始资料无听力音频）",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "f6f2a3f0fd938fdad72835e5bcacf78294914cfa6a09032d7ca9c536479e2503"
+    },
+    {
+      "packId": "cet6-2022-12-set1",
+      "title": "CET-6 2022年12月 第一套（原始资料无听力音频）",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "f4d450d99b22b4baf79a293ad5c6b61488816bd1c6006aa8088b5a2ed537f8aa"
+    },
+    {
+      "packId": "cet6-2022-12-set2",
+      "title": "CET-6 2022年12月 第二套（原始资料无听力音频）",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "7583887b05911494eeeb2610d87e21c724299de5e6854c87b38d74fa2db8de33"
+    },
+    {
+      "packId": "cet6-2022-12-set3",
+      "title": "CET-6 2022年12月 第三套（原始资料无听力音频）",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "70e693d1f406baf3c1f9df71b2159de741785352c745556a1cc5c192e56a0b0e"
+    },
+    {
+      "packId": "cet6-2023-03-set1",
+      "title": "CET-6 2023年3月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "2395678d5d5f0f1e955275ec0591e69334b270bd7fd7f7758ed5eb7a42634a39"
+    },
+    {
+      "packId": "cet6-2023-06-set1",
+      "title": "CET-6 2023年6月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "6384975a52bd758fadc8868fcfe6644580dd65e56f1a1b19ba6852fb047255a5"
+    },
+    {
+      "packId": "cet6-2023-06-set2",
+      "title": "CET-6 2023年6月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "63cb0109ffa74b8842b31bbc53fc9bee3e04a561843e3bd7c894b49f8fe0e8fe"
+    },
+    {
+      "packId": "cet6-2023-06-set3",
+      "title": "CET-6 2023年6月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "8977b2d7cb2776826fdc04ac90ff4d186bf9abb629290cc164bc0079000ba43c"
+    },
+    {
+      "packId": "cet6-2023-12-set1",
+      "title": "CET-6 2023年12月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "1a4332a79a82bdf5c6ab2572f5f29695cb3bd4de1e5fe1811d7b1b1980e23231"
+    },
+    {
+      "packId": "cet6-2023-12-set2",
+      "title": "CET-6 2023年12月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "3f292809aa11bced8f4538137aae6eb69c98b119a9a94e7b412bf08177468052"
+    },
+    {
+      "packId": "cet6-2023-12-set3",
+      "title": "CET-6 2023年12月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "ffbe88f5bee1fba04b852424c4dc5ccd59ba8212df9d7f62deb7984527dba9f8"
+    },
+    {
+      "packId": "cet6-2024-06-set1",
+      "title": "CET-6 2024年6月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "1c6fa89dff29e7deabad96bf9fa88be198eeee13614dabcbe49d049d0fb5499c"
+    },
+    {
+      "packId": "cet6-2024-06-set2",
+      "title": "CET-6 2024年6月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "0c9dbcd1fae3a7714d490efdae03f82b643f30fe962baa9e39380cbeca0fdad2"
+    },
+    {
+      "packId": "cet6-2024-06-set3",
+      "title": "CET-6 2024年6月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "3bebacdb057535e2fb12fa010e2e17488797285f2c4243d3eb7aa0462970e31c"
+    },
+    {
+      "packId": "cet6-2024-12-set1",
+      "title": "CET-6 2024年12月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "f6e4718e08380b402a09828460af61624603edd796f504155a1f639bbdff0733"
+    },
+    {
+      "packId": "cet6-2024-12-set2",
+      "title": "CET-6 2024年12月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "8e789fd742026dc707c35cd6fd1f9f78565cbf3b2b00434c35a838069b05b4dc"
+    },
+    {
+      "packId": "cet6-2024-12-set3",
+      "title": "CET-6 2024年12月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "88ddd358d41e75f42e1dbf234ff3f2cb111941913931734e4d03d6fcb4c0d72a"
+    },
+    {
+      "packId": "cet6-2025-06-set1",
+      "title": "CET-6 2025年6月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "86068d72830d461daf2dbf96f442bd21345bb784946a00ef981d2570f4f219f9"
+    },
+    {
+      "packId": "cet6-2025-06-set2",
+      "title": "CET-6 2025年6月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "f269a68ab6e7cec7cfd24943ae7c6a5faf9ffca3d4c2079ad9089d7fc0ee2a62"
+    },
+    {
+      "packId": "cet6-2025-06-set3",
+      "title": "CET-6 2025年6月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "dc0c3139b1fa6ecee31875e3e12a219f59b5c2a889c390aec5ffe043981e1f48"
+    },
+    {
+      "packId": "cet6-2025-12-set1",
+      "title": "CET-6 2025年12月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "d9ebb7ed8e13080c49e122c0eaabc96a9736a4acf75268c6d090e4c9413a59e3"
+    },
+    {
+      "packId": "cet6-2025-12-set2",
+      "title": "CET-6 2025年12月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "568d7d9943162a0e60065ff67b766a0805e1110aa49d2e83b5c1306f81722d24"
+    },
+    {
+      "packId": "cet6-2025-12-set3",
+      "title": "CET-6 2025年12月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "5ec5c371e3476b026ec5438e806888b8d3a40d05581c68d28ecda23aed9f23d1"
+    },
+    {
+      "packId": "cet6-2026-06-set1",
+      "title": "CET-6 2026年6月 第一套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "738db1dd885b4d20e60547726b4b68cfd0a2990e28ef0bdb3ff4a43ad8a25930"
+    },
+    {
+      "packId": "cet6-2026-06-set2",
+      "title": "CET-6 2026年6月 第二套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "4ef11096cee68038da07480b9dbad3d99aab72c99d633a149ee68f1bd4b31f5f"
+    },
+    {
+      "packId": "cet6-2026-06-set3",
+      "title": "CET-6 2026年6月 第三套",
+      "audioCount": 1,
+      "wordTimed": true,
+      "originalPackageSha256": "8d3772eb28f07a38a969b913fb708d0e1aae72f32bf9c7c8a6cbe89f90ab6431"
+    },
+    {
+      "packId": "ky1-2010",
+      "title": "考研英语一 2010年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "ae3c9cc2dd26ea59b420ce890b16238d98fa9f84a829ef437d457ffd9d9e6849"
+    },
+    {
+      "packId": "ky1-2011",
+      "title": "考研英语一 2011年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "1dd76516936f60a4510e6e6e47eae67c1946117d53b49c819ac377e4fe320280"
+    },
+    {
+      "packId": "ky1-2012",
+      "title": "考研英语一 2012年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "cae901499e57d07cb783e5d2c2228ae23900507248e52fc0fe4b7c331c9d6592"
+    },
+    {
+      "packId": "ky1-2013",
+      "title": "考研英语一 2013年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "5ff914489e0db2ca127e688eeb02c28773cb3313aa5ca1ce446d8e2ed66785dc"
+    },
+    {
+      "packId": "ky1-2014",
+      "title": "考研英语一 2014年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "b100fce7ea08fe1a7d623757ddaa9fc41ce13c8cb90ba2a96f720cd17575da71"
+    },
+    {
+      "packId": "ky1-2015",
+      "title": "考研英语一 2015年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "b1b9aac6c579553fba3155d6f7b756248ba97a738e6fc471708c314bc32cee53"
+    },
+    {
+      "packId": "ky1-2016",
+      "title": "考研英语一 2016年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "d87cc083a19b059797eda8f216469ccf3f9b62c0b0020d15656a892ecbcac2bc"
+    },
+    {
+      "packId": "ky1-2017",
+      "title": "考研英语一 2017年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "611121f12b40979f1c825eaaae4dc223f2666886ca2de436199c70391a137581"
+    },
+    {
+      "packId": "ky1-2018",
+      "title": "考研英语一 2018年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "4fb8461bbe787854afdd37e502ba43d24ca92373cf31834cae99ee3ec227a338"
+    },
+    {
+      "packId": "ky1-2019",
+      "title": "考研英语一 2019年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "b1edcb6942013330f0333501e50ea487241b58d0c2bf93fa10dcfaeec3bec75f"
+    },
+    {
+      "packId": "ky1-2020",
+      "title": "考研英语一 2020年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "91c5dde223d15991b05a56c62b5d796353eb8f487b7784829861e4b85514c90d"
+    },
+    {
+      "packId": "ky1-2021",
+      "title": "考研英语一 2021年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "f350c93d9821bcdcb73828cb91d7f166cff57b36469d8be629fe8c709cd32836"
+    },
+    {
+      "packId": "ky1-2022",
+      "title": "考研英语一 2022年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "ddfe0fdfa71e6a8d1a0d89d5aaaba356b53994a4f083f936650f24c2b10f49e1"
+    },
+    {
+      "packId": "ky1-2023",
+      "title": "考研英语一 2023年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "c909f4520ec3f5b9c79bde65f54e2c25774dc9d41b1b0ba81a779a2bc3d6a466"
+    },
+    {
+      "packId": "ky1-2024",
+      "title": "考研英语一 2024年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "cd0491d7138b2c7ebac079c57cf6bf87c02486bb159c5afc0b2d5f095e1a8703"
+    },
+    {
+      "packId": "ky1-2025",
+      "title": "考研英语一 2025年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "b14ebe6aaf808a064e23213b6fa83ea1e1afcdce4eca54e7cf8c22ff72c26207"
+    },
+    {
+      "packId": "ky2-2010",
+      "title": "考研英语二 2010年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "ec64988a7107106a44c843ded0fa52f34708ee7f390d70a9ddd94b33e35c91a1"
+    },
+    {
+      "packId": "ky2-2011",
+      "title": "考研英语二 2011年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "d9f729ba2ac8ed5fbc1662a4fef3fd2d8e4f08bdf3ddfedbeb6175557efe9a18"
+    },
+    {
+      "packId": "ky2-2012",
+      "title": "考研英语二 2012年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "afb02339f8603ae69bb761b75376093bbfd046abb7f9d42a15dc9b70c7dc3722"
+    },
+    {
+      "packId": "ky2-2013",
+      "title": "考研英语二 2013年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "86af0818227a2e5b13a937a5d8d97ca16833f6c00b5747838f9569a24a981dd0"
+    },
+    {
+      "packId": "ky2-2014",
+      "title": "考研英语二 2014年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "14ca56830558b75854f1d8efac2daa77559305e64c3cc916a1c2fff4d7a2cc42"
+    },
+    {
+      "packId": "ky2-2015",
+      "title": "考研英语二 2015年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "0d04e040ffc39e5ba23288f8d0e754499773039601bf7d917c791a90273c9040"
+    },
+    {
+      "packId": "ky2-2016",
+      "title": "考研英语二 2016年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "f42527abc116831febfabe2f7528b4805cc88f48f1f3c990f7c71a8536ac99a2"
+    },
+    {
+      "packId": "ky2-2017",
+      "title": "考研英语二 2017年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "d5ef71b8dfa3b68c7f3d79f9e8d5cda0129b69016c5361bf31e6cbb25f0fe6be"
+    },
+    {
+      "packId": "ky2-2018",
+      "title": "考研英语二 2018年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "17942be1fe787a9be87db229c3ba84a37e343691366c99f048bfe35f70dc97ad"
+    },
+    {
+      "packId": "ky2-2019",
+      "title": "考研英语二 2019年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "24e49d04a85438d4e6a9b3f3ffbff48dc8cc8b7b17a30fd11cab48a56639dc80"
+    },
+    {
+      "packId": "ky2-2020",
+      "title": "考研英语二 2020年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "55c1f095d4cbdbb2b203f1600f73a00f6a12232dc168ab367f49555ea2ddd443"
+    },
+    {
+      "packId": "ky2-2021",
+      "title": "考研英语二 2021年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "89e5aa8a10df1c804d467cefea1bcf246300cc612810c891773c8709ec44a3fd"
+    },
+    {
+      "packId": "ky2-2022",
+      "title": "考研英语二 2022年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "def14ba4ca9b49b8fd27794e6bb73994eecbfd76612aa25193192783854e221a"
+    },
+    {
+      "packId": "ky2-2023",
+      "title": "考研英语二 2023年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "c65b046b153c0710a5b2e5555aa1b7cd797c554b5cd021a27b49f8e62af1c32b"
+    },
+    {
+      "packId": "ky2-2024",
+      "title": "考研英语二 2024年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "cd85d0a269f0366c9c4d32152e4f5d414a1cef00d70b137a55bf38f163597f55"
+    },
+    {
+      "packId": "ky2-2025",
+      "title": "考研英语二 2025年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "b94ccba3d688339989358ba20fed1d3fb0d84c8e57ff57f6352009e21e787409"
+    },
+    {
+      "packId": "ky2-2026",
+      "title": "考研英语二 2026年真题",
+      "audioCount": 0,
+      "wordTimed": false,
+      "originalPackageSha256": "522308dcb0942740d661d2b160ac95afa1c8111ac15da4adac19e5d96efda5a7"
+    }
+  ]
+}
